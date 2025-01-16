@@ -70,6 +70,12 @@ Contributions are welcome! Feel free to:
 
 ---
 
+## License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+---
+
 
 Thank you for checking out the **Notes App**! We hope you enjoy using it and find it helpful for managing your notes. Have fun exploring! 🌷
 
